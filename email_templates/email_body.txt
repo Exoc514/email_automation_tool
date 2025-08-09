@@ -1,0 +1,8 @@
+Hi {name},
+
+Please find your personalized report attached.
+
+Let me know if you have any questions.
+
+Best regards,  
+Your Automation Tool

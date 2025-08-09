@@ -1,0 +1,5 @@
+name,email,report_file
+Alice,alice@example.com,email_templates/reports/alice_report.pdf
+Bob,bob@example.com,email_templates/reports/bob_report.csv
+Charlie,charlie@example.com,email_templates/reports/charlie_report.pdf
+Daisy,daisy@example.com,email_templates/reports/daisy_report.csv
